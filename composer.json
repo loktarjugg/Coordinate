@@ -8,12 +8,15 @@
     "authors": [
         {
             "name": "jacob",
-            "email": "syd_8906@126.com"
+            "email": "syd8906@gmail.com"
         }
     ],
     "require": {
         "guzzlehttp/guzzle": "~5.3|~6.0"
     },
     "minimum-stability" : "dev",
-    "license": "MIT"
+    "license": "MIT",
+    "psr-4": {
+        "Loktarjugg\\Coordinate\\": "src/"
+    }
 }
