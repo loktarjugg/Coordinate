@@ -1,0 +1,17 @@
+{
+    "name": "loktarjugg/coordinate",
+    "description": "地址转坐标",
+    "keywords": [
+        "coordinate",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "jacob",
+            "email": "syd_8906@126.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~5.3|~6.0"
+    }
+}
