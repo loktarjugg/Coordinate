@@ -16,7 +16,9 @@
     },
     "minimum-stability" : "dev",
     "license": "MIT",
-    "psr-4": {
-        "Loktarjugg\\Coordinate\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "Loktarjugg\\Coordinate\\": "src/"
+        }
     }
 }
