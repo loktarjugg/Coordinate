@@ -4,7 +4,6 @@
 #安装
 通过composer安装
 `composer require loktarjugg/coordinate`
-然后执行 `composer update`
 
 #配置
 *注册`ServiceProvider`
